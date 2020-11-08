@@ -27,7 +27,7 @@ html, body {
 
     .modal-header {
       align-items: center;
-      border-bottom: 0.5px solic #ccc;
+      border-bottom: 0.5px solid #ccc;
     }
 
     .modal-content {
@@ -62,7 +62,7 @@ html, body {
 
     .flex {
       opacity: 1;
-      transition: opacity 0.2sec ease-in-out;
+      transition: opacity 0.2s ease-in-out;
       width: 120px;
     }
 
