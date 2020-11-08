@@ -70,7 +70,9 @@ html, body {
       opacity: 0.4;
     }
 
-    .flex .fa {
-      font-size: 40px;
+    .flex a{
+      font-size: 16px;
+      font-weight: 700;
+      padding: 0.5em;
       color: #023E7D;
     }
